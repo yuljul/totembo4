@@ -904,14 +904,15 @@ padding: 15px;
     
     background: var(--white);
     border-radius: 5px;
-    padding: 3px 7px;
+    padding: 5px 10px;
+    height: 100%;
 }
 
 .item__icon-cart {
     background: var(--white);
     border-radius: 5px;
-    padding: 3px 7px; }
-
+    height: 100%;
+    padding: 5px 10px; }
 
 }
 

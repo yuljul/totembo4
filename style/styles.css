@@ -896,9 +896,21 @@ padding: 15px;
 .main__item1, .main__item2, .main__item3, .main__item4, .main__item5,
 .main__item6, .main__item7, .main__item8, .main__item9, .main__item10,
 .main__item11, .main__item12 {
-    padding: 45px;
+    padding: 0 45px ;
 
 }
+
+.item__icon-heart {
+    
+    background: var(--white);
+    border-radius: 5px;
+    padding: 3px 7px;
+}
+
+.item__icon-cart {
+    background: var(--white);
+    border-radius: 5px;
+    padding: 3px 7px; }
 
 
 }
